@@ -5,3 +5,7 @@ print c
 
 def pallindrome(x):
   return x.lower() == reverse(x.lower())
+
+
+
+print("lol")
